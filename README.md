@@ -1,14 +1,14 @@
-# 👋 Hi there!
+👋 Hi there!
+
 I'm a second-year Computer Engineering student at [Politehnica University of Bucharest](https://upb.ro), passionate about technology, psychology, and everything in between.  
+I enjoy blending creativity with logic to build meaningful digital experiences.
 
-## 🧠 About Me
+🎀 About Me  
+• I love building creative projects  
+• Active member of LSAC Bucharest  
+• Big bookworm with a soft spot for stories and people
 
-- I love building creative projects
-- Active member of LSAC Bucharest  
-- Big bookworm
-
-## 💻 Languages & Technologies
-
+🛠 Languages & Technologies  
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="C" src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=A8B9CC"/>
@@ -18,17 +18,13 @@ I'm a second-year Computer Engineering student at [Politehnica University of Buc
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
-## 📈 GitHub Stats
-
+📈 GitHub Stats  
 <p align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=dianav18&show_icons=true&theme=radical" alt="Diana's GitHub Stats" /> -->
-<!--   <br/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dianav18&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-## 📫 Let’s Connect
-
+📫 Let’s Connect  
 💌 Email: dianavulpoi3@gmail.com  
 🔗 LinkedIn: [linkedin.com/in/diana-vulpoi](https://www.linkedin.com/in/diana-vulpoi/)
 
-> “The most powerful code blends logic and emotion.” – me, probably 😊
+_“The most powerful code blends logic and emotion.” – me, probably 😊_
