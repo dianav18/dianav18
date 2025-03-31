@@ -1,5 +1,4 @@
 # 👋 Hi there!
-
 I'm a Computer Engineering student at [Politehnica University of Bucharest](https://upb.ro), passionate about technology, psychology, and everything in between.  
 
 ## 🧠 About Me
