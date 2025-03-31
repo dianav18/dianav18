@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Diana!
+# 👋 Hi there!
 
 I'm a Computer Engineering student at [Politehnica University of Bucharest](https://upb.ro), passionate about technology, psychology, and everything in between.  
 
@@ -22,8 +22,8 @@ I'm a Computer Engineering student at [Politehnica University of Bucharest](http
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dianav18&show_icons=true&theme=radical" alt="Diana's GitHub Stats" />
-  <br/>
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=dianav18&show_icons=true&theme=radical" alt="Diana's GitHub Stats" /> -->
+<!--   <br/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dianav18&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
