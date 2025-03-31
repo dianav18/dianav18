@@ -7,18 +7,16 @@ I'm a Computer Engineering student at [Politehnica University of Bucharest](http
 - I love building creative projects
 - Active member of LSAC Bucharest  
 - Big bookworm
-- I speak: English (C1), French (B2), Romanian (native)
 
 ## 💻 Languages & Technologies
 
 <p>
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img alt="C" src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=A8B9CC"/>
   <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  <img alt="C" src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=A8B9CC"/>
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
 </p>
 
 ## 📈 GitHub Stats
