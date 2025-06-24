@@ -25,5 +25,3 @@ I'm a second-year Computer Engineering student at [Politehnica University of Buc
 📫 Let’s Connect  
 💌 Email: dianavulpoi3@gmail.com  
 🔗 LinkedIn: [linkedin.com/in/diana-vulpoi](https://www.linkedin.com/in/diana-vulpoi/)
-
-_“The most powerful code blends logic and emotion.” – me, probably 😊_
