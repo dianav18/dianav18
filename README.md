@@ -5,7 +5,7 @@ I'm a third-year Computer Engineering student at [Politehnica University of Buch
 🎀 About Me  
 • I love building creative projects  
 • Active member of LSAC Bucharest  
-• Big bookworm with a soft spot for stories and people
+• Big bookworm 
 
 🛠 Languages & Technologies  
 <p>
