@@ -1,6 +1,6 @@
 👋 Hi there!
 
-I'm a second-year Computer Engineering student at [Politehnica University of Bucharest](https://upb.ro), passionate about technology, psychology, and everything in between.  
+I'm a third-year Computer Engineering student at [Politehnica University of Bucharest](https://upb.ro), passionate about technology, psychology, and everything in between.  
 
 🎀 About Me  
 • I love building creative projects  
