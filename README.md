@@ -15,7 +15,7 @@ I'm a third-year Computer Engineering student at [Politehnica University of Buch
   <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img alt ="Verilog" src="https://miro.medium.com/v2/resize:fit:750/format:webp/0*GKK6gffYJYsiI9ms.png"/>
+  <img alt="Verilog" src="https://img.shields.io/badge/Verilog-3A0C47?style=for-the-badge"/>
 </p>
 
 📈 GitHub Stats  
