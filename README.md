@@ -20,7 +20,7 @@ I'm a third-year Computer Engineering student at [Politehnica University of Buch
 
 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dianav18&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dianav18&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 📫 Let’s Connect  
